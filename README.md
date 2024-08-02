@@ -15,6 +15,8 @@ Arrays.asList(s1,s2,s3,s4).stream()
 .forEach(System.out::print);
 }
 ```
+> Código copiado na integra da prova https://conhecimento.fgv.br/sites/default/files/concursos/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-web-designercr-09-wd-tipo-1.pdf
+> PDF da prova anexado ao repositório dia 2/8/2024
 
 ## Resultado ao executar o código
 ![Image](./evidencia-de-erro-2.png)
