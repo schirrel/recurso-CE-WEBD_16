@@ -15,7 +15,8 @@ Arrays.asList(s1,s2,s3,s4).stream()
 .forEach(System.out::print);
 }
 ```
-> Código copiado na integra da prova https://conhecimento.fgv.br/sites/default/files/concursos/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-web-designercr-09-wd-tipo-1.pdf
+> Código copiado na integra da prova https://conhecimento.fgv.br/sites/default/files/concursos/tecnico-de-nivel-superior-analista-de-sistemas-computacionais-web-designercr-09-wd-tipo-1.pdf   
+> Apenas adicionadas importações necessárias para a execução `import java.net.MalformedURLException;` e `import java.net.URL;`    
 > PDF da prova anexado ao repositório dia 2/8/2024
 
 ## Resultado ao executar o código
